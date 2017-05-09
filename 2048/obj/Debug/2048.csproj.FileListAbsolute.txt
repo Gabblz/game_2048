@@ -1,0 +1,9 @@
+D:\C#\Проекты\Игра 2048\2048\2048\bin\Debug\2048.exe.config
+D:\C#\Проекты\Игра 2048\2048\2048\bin\Debug\2048.exe
+D:\C#\Проекты\Игра 2048\2048\2048\bin\Debug\2048.pdb
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\_2048.Game2048.resources
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\2048.exe
+D:\C#\Проекты\Игра 2048\2048\2048\obj\Debug\2048.pdb
